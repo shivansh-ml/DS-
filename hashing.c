@@ -1,0 +1,4 @@
+/*
+store the number same as the index value in the list
+time complexity and space complexity trade off
+*/
